@@ -7,4 +7,5 @@
 More text here.
 
 *this is a bullet
+
 *second bullet
